@@ -187,9 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  preprint:
-    output: true
-    permalink: /:collection/:path/
+  # preprint:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
@@ -230,15 +230,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: preprint
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # # _publications
+  # - scope:
+  #     path: ""
+  #     type: preprint
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _portfolio
   - scope:
       path: ""

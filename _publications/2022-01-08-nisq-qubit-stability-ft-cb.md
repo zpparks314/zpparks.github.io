@@ -1,6 +1,7 @@
 ---
 title: "Measuring NISQ Gate-Based Qubit Stability Using a 1+1 Field Theory and Cycle Benchmarking"
-collection: preprint
+collection: publications
+preprint: enabled
 permalink: /publication/2022-01-08-nisq-qubit-stability-ft-cb
 excerpt: 'Some of the most problematic issues that limit the implementation of applications on Noisy Intermediate Scale Quantum (NISQ) machines are the adverse impacts of both incoherent and coherent errors. We conducted an in-depth study of coherent errors on a quantum hardware platform using a transverse field Ising model Hamiltonian as a sample user application.'
 date: 2022-01-08
