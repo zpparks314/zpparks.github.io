@@ -1,7 +1,7 @@
 ---
 title: "Quantum chemistry as a benchmark for near-term quantum computers"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2019-11-15-quantum-chemistry-benchmark
 excerpt: 'We present a quantum chemistry benchmark for noisy intermediate-scale quantum computers that leverages the variational quantum eigensolver, active-space reduction, a reduced unitary coupled cluster ansatz, and reduced density purification as error mitigation.'
 date: 2019-11-15
 venue: 'npj Quantum Information'
