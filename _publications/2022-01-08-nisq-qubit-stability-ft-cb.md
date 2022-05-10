@@ -12,5 +12,3 @@ citation: 'Yeter-Aydeniz, Kubra and Parks, Zachary and Nair, Aadithya and Gustaf
 Some of the most problematic issues that limit the implementation of applications on Noisy Intermediate Scale Quantum (NISQ) machines are the adverse impacts of both incoherent and coherent errors. We conducted an in-depth study of coherent errors on a quantum hardware platform using a transverse field Ising model Hamiltonian as a sample user application.
 
 [Download paper here](https://arxiv.org/pdf/2201.02899.pdf)
-
-Recommended citation: Yeter-Aydeniz, Kubra and Parks, Zachary and Nair, Aadithya and Gustafson, Erik and Kemper, Alexander F. and Pooser, Raphael C. and Meurice, Yannick and Dreher, Patrick. (2022). "Measuring NISQ Gate-Based Qubit Stability Using a 1+1 Field Theory and Cycle Benchmarking" <i>Arxiv, preprint</i>.
