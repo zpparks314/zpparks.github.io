@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zachary Parks"
-  avatar           : "profile.png"
+  avatar           : "zp_bio_pic.jpg"
   bio              : "NCSU Ph.D. Student interested in quantum computing applications, software, and noise and error mitigation."
   location         : "Raleigh, North Carolina"
   employer         :
