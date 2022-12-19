@@ -1,7 +1,7 @@
 ---
-title: 'It's been a while, but I have some good news!'
-date: 2022-12-13
-permalink: /posts/2022/12/blog-post-2/
+title: 'It's been a while, but I have some good news'
+date: 2022-05-06
+permalink: /posts/2022/05/blog-post-2/
 tags:
   - progress
   - research
@@ -12,7 +12,7 @@ categories:
 
 Our research group submitted a paper to the arXiv!
 ======
-As a Ph.D. student studying quantum computing, I am proud to announce that my research group has just submitted a paper to arXiv.org about applying error mitigation protocols to real-time scattering calculations performed on cloud-accessible quantum computing hardware.
+I am proud to announce that my research group has just submitted a paper to arXiv.org about applying error mitigation protocols to real-time scattering calculations performed on cloud-accessible quantum computing hardware.
 
 In our paper, we discuss using an error mitigation strategy known as Noisy Output eXtrapolation (NOX) to improve the accuracy of physics simulations performed on a Noisy Intermediate Scale Quantum (NISQ) quantum computer. By supplementing the application circuits with NOX, we reduced errors that accumulated throughout the circuits and improved our calculations' accuracy.
 
